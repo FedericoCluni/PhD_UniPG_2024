@@ -1,1 +1,1 @@
-Slides (Powerpoint) of the Lectures
+Slides (Powerpoint) of the Lectures and supplemental files.
